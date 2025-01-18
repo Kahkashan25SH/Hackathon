@@ -6,7 +6,6 @@ import { IoIosArrowForward } from 'react-icons/io';
 export default function About() {
   return (
     <div>
-      {/* Hero Section */}
       <div
         className="relative w-full h-[316px] bg-cover bg-center"
         style={{ backgroundImage: "url('/shop img/Rectangle 1.png')" }}
